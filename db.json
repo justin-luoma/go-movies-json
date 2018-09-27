@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+            "title": "Star Wars: A New Hope",
+            "rating": 5,
+            "id": 2
+        },
+        {
+            "title": "Star Wars: Return of the Jedi",
+            "rating": 5,
+            "id": 3
+        },
+        {
+            "title": "Star Wars: The Force Awakens",
+            "rating": 4,
+            "id": 4
+        },
+        {
+            "title": "Casablanca",
+            "rating": 4,
+            "id": 12
+        }
+    ]
+}

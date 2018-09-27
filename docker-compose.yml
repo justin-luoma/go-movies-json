@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+    go-mail:
+        image: go-movies-json:latest
+        environment:
+            - PORT=8080
+        ports:
+            - 5004:8080
+        volumes:
+            - ./:/code
+        restart: always
